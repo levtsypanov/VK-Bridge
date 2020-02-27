@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/VK-Bridge/static/css/main.981f7211.chunk.css",
+    "main.js": "/VK-Bridge/static/js/main.aebfbebe.chunk.js",
+    "main.js.map": "/VK-Bridge/static/js/main.aebfbebe.chunk.js.map",
+    "runtime-main.js": "/VK-Bridge/static/js/runtime-main.dcb69046.js",
+    "runtime-main.js.map": "/VK-Bridge/static/js/runtime-main.dcb69046.js.map",
+    "static/css/2.3e9c613c.chunk.css": "/VK-Bridge/static/css/2.3e9c613c.chunk.css",
+    "static/js/2.1b7b6cb3.chunk.js": "/VK-Bridge/static/js/2.1b7b6cb3.chunk.js",
+    "static/js/2.1b7b6cb3.chunk.js.map": "/VK-Bridge/static/js/2.1b7b6cb3.chunk.js.map",
+    "index.html": "/VK-Bridge/index.html",
+    "precache-manifest.3366528e93d56b0491c3e8b13609d556.js": "/VK-Bridge/precache-manifest.3366528e93d56b0491c3e8b13609d556.js",
+    "service-worker.js": "/VK-Bridge/service-worker.js",
+    "static/css/2.3e9c613c.chunk.css.map": "/VK-Bridge/static/css/2.3e9c613c.chunk.css.map",
+    "static/css/main.981f7211.chunk.css.map": "/VK-Bridge/static/css/main.981f7211.chunk.css.map",
+    "static/media/persik.png": "/VK-Bridge/static/media/persik.4e1ec840.png"
+  }
+}
