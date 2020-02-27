@@ -1,0 +1,1 @@
+# VK Mini App Boilerplate
